@@ -1,5 +1,5 @@
 # Jekyll Configuration
 
-title: Legal Hub - SKITechBytes
+title: SKITechBytes
 description: A comprehensive legal resources documentation site for SKITechBytes.
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
